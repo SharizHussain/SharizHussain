@@ -1,5 +1,4 @@
 # Shariz_Hussain
-This is my profile's Readme.md
 
 <h1 align="center">Hi 👋, I'm Shariz Hussain</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
