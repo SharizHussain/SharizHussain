@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharizhussain" alt="sharizhussain" /></a> </p>
 
-- 🔭 I’m currently working on [FixMate AI](https://fixmate-1.vercel.app/)
+- 🔭 I’m currently working on [FixMate AI](https://fixmate.vercel.app/)
 
 - 🌱 I’m currently polishing **Javascript, Express Js**
 
