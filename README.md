@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Shariz Hussain</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharizhussain" alt="sharizhussain" /></a> </p>
-
 - 🔭 I’m currently working on [FixMate AI](https://fixmate.vercel.app/)
 
 - 🌱 I’m currently polishing **Javascript, Express Js**
